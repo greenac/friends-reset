@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "andre",
+    "password": null,
+    "database": "model_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "andre",
+    "password": null,
+    "database": "model_test",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "andre",
+    "password": null,
+    "database": "model_test",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
