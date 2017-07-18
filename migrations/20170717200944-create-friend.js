@@ -13,6 +13,7 @@ module.exports = {
         primaryKey: true,
         allowNull: false
       },
+      status: Sequelize.STRING,
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE
